@@ -4,7 +4,7 @@ Manual de instrucciones para la instalación y ejecución del proyecto de simula
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```
 Proyecto-Final-MBA-Simulaci-n-Pelot-n-Ciclista-/
@@ -61,6 +61,6 @@ Al ejecutarse, el programa debería **abrir automáticamente** la interfaz en tu
 
 ---
 
-## 🚴 Sobre el proyecto
+## Sobre el proyecto
 
 Este proyecto simula el comportamiento de un pelotón ciclista como parte del Proyecto Final del MBA. Utiliza datos reales de una etapa del Tour de Francia para modelar y visualizar la dinámica del grupo de ciclistas en tiempo real a través de una interfaz web interactiva.
